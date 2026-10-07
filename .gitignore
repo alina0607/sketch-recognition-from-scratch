@@ -1,0 +1,7 @@
+data/
+runs/
+.ipynb_checkpoints/
+__pycache__/
+*.egg-info/
+sketch_recognition_zh.ipynb
+sketch_recognition_practice.ipynb
